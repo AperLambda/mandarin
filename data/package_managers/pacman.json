@@ -1,0 +1,12 @@
+{
+  "name": "pacman",
+  "base_cmd": "pacman",
+  "actions": {
+    "test":  {"value": "V", "type": "ARG"},
+    "version": {"value": "V", "type": "ARG"},
+    "install": {"value": "S", "type": "ARG"},
+    "remove": {"value": "R", "type": "ARG"},
+    "update": {"value": "u", "type": "ARG"}
+  },
+  "child": "yaourt"
+}

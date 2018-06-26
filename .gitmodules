@@ -1,0 +1,12 @@
+[submodule "dependencies/json"]
+	path = dependencies/json
+	url = https://github.com/nlohmann/json
+[submodule "dependencies/tiny-process-library"]
+	path = dependencies/tiny-process-library
+	url = https://github.com/eidheim/tiny-process-library.git
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/AperLambda/LambdaCMakeModules.git
+[submodule "dependencies/fifo_map"]
+	path = dependencies/fifo_map
+	url = https://github.com/nlohmann/fifo_map.git

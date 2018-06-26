@@ -1,0 +1,5 @@
+{
+  "db": {
+    "lambda": "https://raw.githubusercontent.com/AperLambda/mandarin-db/master/"
+  }
+}

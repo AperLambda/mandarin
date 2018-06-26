@@ -1,0 +1,11 @@
+{
+  "name": "apt-get",
+  "base_cmd": "apt-get",
+  "actions": {
+    "test": "",
+    "version": {"value": "v", "type": "ARG"},
+    "install": {"value": "install", "type": "CMD"},
+    "remove": {"value": "purge", "type": "CMD"},
+    "update": {"value": "update", "type": "CMD"}
+  }
+}

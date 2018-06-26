@@ -1,0 +1,16 @@
+{
+  "targets": {
+    "win": {
+      "default": "self"
+    },
+    "apple": {
+      "default": "brew"
+    },
+    "linux": {
+      "default": "self",
+      "debian": "apt-get",
+      "ubuntu": "apt-get",
+      "archlinux": "pacman"
+    }
+  }
+}
